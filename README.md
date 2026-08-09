@@ -35,6 +35,8 @@ I'm an **ECE student at MIST Dhaka** passionate about building intelligent syste
 | **[LexisClear](https://github.com/MdSadman20040812/LexisClear)** | Automated contract reviewer auditing legal agreements against corporate playbooks | `LangGraph` `Python` `Vector Search` |
 | **[TerraTrace](https://github.com/MdSadman20040812/TerraTrace)** | Land title resolver processing historical deeds and ownership chains with vector memory | `LangGraph` `ChromaDB` `Python` |
 | **[Glade](https://github.com/MdSadman20040812/Glade)** | Professional startup landing page with animated canvas engine, REST API routing, and glassmorphism UI | `HTML` `CSS` `Express` `Playwright` |
+| **[Frontend Designs](https://github.com/MdSadman20040812/frontend-designs)** | Curated frontend visualizations including CNN Filter Atlas and interactive UI experiments | `HTML` `CSS` `JavaScript` |
+| **[Hardware Visualizations](https://github.com/MdSadman20040812/hardware-visualizations)** | Embedded systems schematics: Diode-OR transfer switch and load-shedding fuse monitor | `SVG` `Electronics` `Schematics` |
 
 </div>
 
